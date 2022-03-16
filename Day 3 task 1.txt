@@ -1,0 +1,36 @@
+[
+  "introduction": {
+    "name": "Vasanthakumar G",   
+    "email": "vagsanth@gmail.com",
+    "phone": "(+91) 9092762110.",
+    "marital status": "single",
+   
+    "location": {
+      "address": "Tsunami street ,Poompuhar",
+      "postalCode": "609105",
+      "city": "Mayiladuthurai",
+      "state": "Tamil Nadu"
+    },
+
+  "education": {
+      "institution": "Annamalai university",
+      "location": "Chidambaram",
+      "studyType": "Regular",
+      "startDate": "2013",
+      "endDate": "2017",     
+      "courses": 	"Mechanical Engineering",
+    }
+	
+  "skills":{
+      "name": "Javascript",
+      "level": "Beginner",      
+    }
+  "languages":{
+      "language": "Tamil,English",
+      "fluency": "Excellent"
+    }
+  "interests":{
+      "name": "Movies",
+      "keywords":"Web series"
+    }
+]
